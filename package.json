@@ -1,0 +1,22 @@
+{
+  "name": "jingitapi",
+  "version": "1.0.0",
+  "description": "Jingit API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P3r3d0x/JingitApi.git"
+  },
+  "keywords": [
+    "Jingit"
+  ],
+  "author": "Paradox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P3r3d0x/JingitApi/issues"
+  },
+  "homepage": "https://github.com/P3r3d0x/JingitApi#readme"
+}
